@@ -4,7 +4,7 @@ A VS Code extension that helps you test LeetCode problems directly in your devel
 
 <div align="center">
   <video autoplay loop muted playsinline>
-    <source src="./media/demo.mp4" type="video/webm">
+    <source src="./media/demo.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -16,9 +16,9 @@ A VS Code extension that helps you test LeetCode problems directly in your devel
 - 🎯 Real-time test case validation
 - 💻 Local development environment integration
 
-<div align="center" style="display:flex; justify-content: center; gap: 20px;">
-  <img src="./media/image-1.png" alt="CPH-Leetcode-1" width="200">
-  <img src="./media/image-2.png" alt="CPH-Leetcode-2" width="200">
+<div align="center" style="display:flex; justify-content: center; gap: 40px;">
+  <img src="./media/image-1.png" alt="CPH-Leetcode-1" width="400">
+  <img src="./media/image-2.png" alt="CPH-Leetcode-2" width="400">
 </div>
 
 ## Installation
