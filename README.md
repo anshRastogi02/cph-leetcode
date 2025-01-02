@@ -17,8 +17,8 @@ A VS Code extension that helps you test LeetCode problems directly in your devel
 - 💻 Local development environment integration
 
 <p align="center">
-  <img src="./media/image-1.png" alt="CPH-Leetcode-1" width="200">&nbsp;&nbsp;
-  <img src="./media/image-2.png" alt="CPH-Leetcode-2" width="200">
+  <img src="./media/image-1.png" alt="CPH-Leetcode-1" width="400">&nbsp;&nbsp;
+  <img src="./media/image-2.png" alt="CPH-Leetcode-2" width="400">
 </p>
 
 ## Installation
