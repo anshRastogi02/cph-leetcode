@@ -1,10 +1,14 @@
-# CPH LeetCode Extension
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="media/logo.png" alt="CPH-Leetcode Logo" style="height: 45px;">
+  <h1 style="margin: 0;">CPH-Leetcode</h1>
+</div>
 
 A VS Code extension that helps you test LeetCode problems directly in your development environment. Fetch test cases automatically and run them without leaving your editor.
 
 <div align="center">
   <video autoplay loop muted playsinline>
-    <source src="./media/demo.mp4" type="video/webm">
+    <source src="./media/demo.mp4" type="video/mp4">
   </video>
 </div>
 
