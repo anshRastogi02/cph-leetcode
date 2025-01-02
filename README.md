@@ -1,16 +1,16 @@
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="media/logo.png" alt="CPH-Leetcode Logo" style="height: 45px;">
-  <h1 style="margin: 0;">CPH-Leetcode</h1>
-</div>
+<p align="center">
+  <img src="media/logo.png" alt="CPH-Leetcode Logo" height="45">
+  <h1 align="center">CPH-Leetcode</h1>
+</p>
 
 A VS Code extension that helps you test LeetCode problems directly in your development environment. Fetch test cases automatically and run them without leaving your editor.
 
-<div align="center">
+<p align="center">
   <video autoplay loop muted playsinline>
     <source src="./media/demo.mp4" type="video/mp4">
   </video>
-</div>
+</p>
 
 ## Features
 
@@ -20,10 +20,10 @@ A VS Code extension that helps you test LeetCode problems directly in your devel
 - 🎯 Real-time test case validation
 - 💻 Local development environment integration
 
-<div align="center" style="display:flex; justify-content: center; gap: 20px;">
-  <img src="./media/image-1.png" alt="CPH-Leetcode-1" width="200">
+<p align="center">
+  <img src="./media/image-1.png" alt="CPH-Leetcode-1" width="200">&nbsp;&nbsp;
   <img src="./media/image-2.png" alt="CPH-Leetcode-2" width="200">
-</div>
+</p>
 
 ## Installation
 
