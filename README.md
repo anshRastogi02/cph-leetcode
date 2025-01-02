@@ -1,10 +1,10 @@
-# Competitive Programming Helper (CPH) - LeetCode Extension
+# CPH LeetCode Extension
 
 A VS Code extension that helps you test LeetCode problems directly in your development environment. Fetch test cases automatically and run them without leaving your editor.
 
 <div align="center">
   <video autoplay loop muted playsinline>
-    <source src="./media/demo.webm" type="video/webm">
+    <source src="./media/demo.mp4" type="video/webm">
   </video>
 </div>
 
@@ -15,6 +15,11 @@ A VS Code extension that helps you test LeetCode problems directly in your devel
 - 📝 Support for multiple programming languages
 - 🎯 Real-time test case validation
 - 💻 Local development environment integration
+
+<div align="center" style="display:flex; justify-content: center; gap: 20px;">
+  <img src="./media/image-1.png" alt="CPH-Leetcode-1" width="200">
+  <img src="./media/image-2.png" alt="CPH-Leetcode-2" width="200">
+</div>
 
 ## Installation
 
@@ -32,6 +37,11 @@ cd cph-leetcode
 npm install
 npm run compile
 ```
+## Supported Languages
+- C++
+- Python
+- Java
+- JavaScript
 
 ## Usage
 
@@ -49,7 +59,7 @@ npm run compile
 
 ## Requirements
 
-- VS Code 1.90.0 or higher
+- VS Code 1.96.0 or higher
 - Node.js 22.10.0 or higher
 - Active internet connection for fetching test cases
 
@@ -65,7 +75,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LISCENSE) file for details.
 <hr>
 
 ~ Made with ❤️ for competitive programmers

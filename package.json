@@ -1,10 +1,12 @@
 {
   "name": "cph-leetcode",
-  "displayName": "cph-leetcode",
-  "description": "CPH LeetCode Test Cases",
-  "version": "0.0.1",
+  "displayName": "CPH-Leetcode",
+  "description": "A VSCode extension to fetch and run test cases for LeetCode problems",
+  "publisher": "anshRastogi02",
+  "icon": "media/logo.png",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.96.2"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Other"
@@ -17,7 +19,7 @@
         {
           "id": "leetcode-testcases",
           "title": "LeetCode Test Cases",
-          "icon": "media/leetcode.svg"
+          "icon": "media/logo.svg"
         }
       ]
     },
@@ -41,6 +43,11 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anshRastogi02/cph-leetcode.git"
+  },
+  "license": "MIT",
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",
