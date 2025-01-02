@@ -6,11 +6,7 @@
 
 A VS Code extension that helps you test LeetCode problems directly in your development environment. Fetch test cases automatically and run them without leaving your editor.
 
-<p align="center">
-  <video autoplay loop muted playsinline>
-    <source src="./media/demo.mp4" type="video/mp4">
-  </video>
-</p>
+<img src="media/demo.gif" alt="CPH-Leetcode Demo" width="100%">
 
 ## Features
 
